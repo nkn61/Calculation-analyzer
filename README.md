@@ -5,7 +5,7 @@ Download and unzip  IMPULSWXE.ZIP.
 Run exe-file: IMPULSWXE.EXE 
 ListSample1.lst should be loaded.
 
-How to manage thousands of recordings in a single file is here.
+How to manage thousands of an experimental recordings in a single file is here.
 
 No tables, no pages, no million of numbers before your eyes.
 
