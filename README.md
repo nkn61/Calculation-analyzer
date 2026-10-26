@@ -2,7 +2,7 @@ IMPULSWXE is an alternative analytical software for
 the data collection and analysis on Windows.
 
 Download and unzip  IMPULSWXE.ZIP. 
-Run exe-file: IMPULSWXE.EXE 
+Run exe-file: IMPULSWXE.EXE.
 ListSample1.lst should be loaded.
 
 How to manage thousands of an experimental recordings in a single file is here.
@@ -21,4 +21,4 @@ ABF file processing.
 
 It can be online notebook for experimental recordings.
 
-See pptx-files from Help menu or use [F1] 
+See Help for details. 
